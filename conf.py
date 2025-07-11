@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'Enter Norton Setup Product Key'
 
 
 # The full version, including alpha/beta/rc tags
